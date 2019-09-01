@@ -2,7 +2,7 @@
 
 A python app that lets one view and add weathers of cities of choice
 
-#### Date of Current Version (July 8th,2019)
+#### Date of Current Version (September 1st,2019)
 #### By **Joy Wendo**
 ## Description
 This is a Django application which allowsone to add weather for different cities
@@ -58,6 +58,3 @@ None known at the moment.
 * HTML
 * CSS
 * Python
-## License
-MIT License
-Copyright (c) 2019 Joy Wendo
